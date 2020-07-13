@@ -22,4 +22,3 @@ prom = (sum+su)/elements.to_f
 puts "El promedio del estudiante es #{prom}"
 
 print "\n"
-
